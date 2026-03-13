@@ -86,3 +86,13 @@ python evaluation_dataset.py CLIC_jpg
 2. [CLIC](https://www.kaggle.com/datasets/mustafaalkhafaji95/clic-dataset) High Resolution Dataset
    
 ![CLIC_result](./dataset_benchmark_speed_quality_CLIC.png)
+
+## My Contribution
+
+This project was developed as a team project for the Video Compression course.
+
+My contribution focused on the evaluation and analysis of the decoder performance, including:
+
+- Implementing image quality evaluation using PSNR, SSIM, and MS-SSIM
+- Benchmarking decoding performance on standard datasets (Lena, Kodak, CLIC)
+- Analyzing trade-offs between decoding speed and visual quality
